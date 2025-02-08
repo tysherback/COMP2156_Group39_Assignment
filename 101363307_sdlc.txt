@@ -1,0 +1,1 @@
+This course teaches the importance of DevOps in the software development cycle
