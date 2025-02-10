@@ -3,7 +3,7 @@
 - **Leader:** Ty Sherback (101515995) - [GitHub](https://github.com/tysherback)
 - **Member 2:** Alex Claus (101493318) - [GitHub](https://github.com/yeetgarf)
 - **Member 3:** Salman Khan (101363307) - [GitHub](https://github.com/SalmanKhanGBC)
-- **Member 4:** Name (Stu#) - [GitHub](LINK)
+- **Member 4:** Ibrahim Ali (101536066) - [GitHub](https://github.com/vaporah)
 
 
 ## 3. Project Description:
