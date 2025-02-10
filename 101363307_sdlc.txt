@@ -1,1 +1,0 @@
-This course teaches the importance of DevOps in the software development cycle. Some of those include: faster software delivery, better flexibility, security, collaboration, etc.
