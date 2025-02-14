@@ -1,0 +1,1 @@
+COMP 3104 is a DevOps course that teaches CI/CD, automation, and cloud technologies.
