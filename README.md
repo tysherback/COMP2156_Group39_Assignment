@@ -4,7 +4,7 @@
 - **Member 2:** Alex Claus (101493318) - [GitHub](https://github.com/yeetgarf)
 - **Member 3:** Salman Khan (101363307) - [GitHub](https://github.com/SalmanKhanGBC)
 - **Member 4:** Ibrahim Ali (101536066) - [GitHub](https://github.com/vaporah)
-
+- **Member 5:** Lakshmi (101474919) - [GitHub](https://github.com/lakshmichaliya)
 
 ## 3. Project Description:
 This assignment for COMP 2156 – DevOps For System Administration requires students to work in groups of 3 to 4 members to collaboratively manage a GitHub repository while implementing DevOps practices. The tasks include creating a public repository, adding collaborators, managing branches, making commits, setting up a continuous integration (CI) pipeline using GitHub Actions, merging branches, resolving conflicts, and updating the README file.
